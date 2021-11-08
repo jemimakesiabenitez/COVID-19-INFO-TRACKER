@@ -1,0 +1,218 @@
+<resources xmlns:hrefhttps="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">COVID-19 TRACKER</string>
+    <string name="active">Active</string>
+    <string name="recovered">Recovered</string>
+    <string name="total">Total</string>
+    <string name="deaths">Deaths</string>
+    <string name="covid_19">Covid-19</string>
+    <string name="country">Country</string>
+    <string name="cases">Cases</string>
+    <string name="increment_number">+232325</string>
+    <string name="number">2323236544</string>
+    <string name="covid_19_tracker">COVID 19 TRACKER</string>
+    <string name="philippines">PHILIPPINES</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">ABOUT</string>
+    <string name="covid">COVID</string>
+
+    <string name="what">
+        <b>What is COVID-19?</b>
+    </string>
+
+    <string name="one">
+        Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.
+    </string>
+
+
+    <string name="second">
+        Most people infected with the virus will experience mild to moderate respiratory illness and recover without requiring special treatment. However, some will become seriously ill and require medical attention. Older people and those with underlying medical conditions like cardiovascular disease, diabetes, chronic respiratory disease, or cancer are more likely to develop serious illness. Anyone can get sick with COVID-19 and become seriously ill or die at any age.
+    </string>
+
+    <string name="third">
+        The best way to prevent and slow down transmission is to be well informed about the disease and how the virus spreads. Protect yourself and others from infection by staying at least 1 metre apart from others, wearing a properly fitted mask, and washing your hands or using an alcohol-based rub frequently. Get vaccinated when it’s your turn and follow local guidance.
+    </string>
+
+    <string name="symptoms">Symptoms</string>
+
+    <string name="fourth">
+        COVID-19 affects different people in different ways. Most infected people will develop mild to moderate illness and recover without hospitalization.
+    </string>
+
+    <string name="most">
+        <b>Most common symptoms are:</b>
+    </string>
+
+    <string name="symp">
+        <br>1. Fever \n</br>
+        <br>2. Cough \n</br>
+        <br>3. Tiredness \n</br>
+        <br>4. Loss of taste or smell \n</br>
+    </string>
+
+    <string name="less">
+        <b>Less common symptoms are:</b>
+    </string>
+
+    <string name="lesscom">
+        <br>1. Sore throat \n</br>
+        <br>2. Headache \n</br>
+        <br>3. Aches and pains \n</br>
+        <br>4. Diarrhea \n</br>
+        <br>5. Rah on skin, or discolouration of toes \n</br>
+        <br>6. Red or irritated eyes \n</br>
+    </string>
+
+    <string name="serious">
+        <b>Less common symptoms are:</b>
+    </string>
+
+    <string name="seriouscom">
+        <br>1. Difficulty breathing or shortness of breath \n</br>
+        <br>2. Loss of speech mobility \n</br>
+        <br>3. Chess pain \n</br>
+        <br>\nSeek immediate medical attention if you have serious symptoms. Always call before visiting your doctor or health facility. \n</br>
+        <br>\nPeople with mild symptoms who are otherwise healthy should manage their symptoms at home. \n</br>
+        <br>\nOn average it takes 5-6 days from when someone is infected with the virus for symptoms to show, however it can take up to 14 days. \n</br>
+    </string>
+
+    <string name="prevention">Preventions</string>
+
+    <string name="prevent">
+        To prevent infection and to slow transmission of COVID-19, do the following:
+        <br>\n\n1. Get vaccinated when a vaccine is available to you. \n</br>
+        <br>\n2. Stay at least 1 metre apart from others, even if they don’t appear to be sick. \n</br>
+        <br>\n3. Wear a properly fitted mask when physical distancing is not possible or when in poorly ventilated settings. \n</br>
+        <br>\n4. Choose open, well-ventilated spaces over closed ones. Open a window if indoors. \n</br>
+        <br>\n5. Wash your hands regularly with soap and water or clean them with alcohol-based hand rub. \n</br>
+        <br>\n6. Cover your mouth and nose when coughing or sneezing. \n</br>
+        <br>\n7. If you feel unwell, stay home and self isolate until you recover.\n</br>
+    </string>
+    
+    <string name="todo">TODO</string>
+    
+    <string name="faq">
+        <b>Frequently Asked Questions</b>
+    </string>
+
+    <string name="faqs1">
+        <b>Who is most at risk of severe illness from COVID-19?\n</b>
+        <br>\n People aged 60 years and over, and those with underlying medical problems like high blood pressure, heart and lung problems, diabetes, obesity or cancer, are at higher risk of developing serious illness.</br>
+        <br>\n\n However, anyone can get sick with COVID-19 and become seriously ill or die at any age. </br>
+    </string>
+
+    <string name="faqs2">
+        <b>What happens to people who get COVID 19?\n</b>
+        <br>\n Among those who develop symptoms, most (about 80%) recover from the disease without needing hospital treatment. About 15% become seriously ill and require oxygen and 5% become critically ill and need intensive care.</br>
+        <br>\n\n Complications leading to death may include respiratory failure, acute respiratory distress syndrome (ARDS), sepsis and septic shock, thromboembolism, and/or multiorgan failure, including injury of the heart, liver or kidneys. </br>
+        <br>\n\n In rare situations, children can develop a severe inflammatory syndrome a few weeks after infection. </br>
+    </string>
+
+    <string name="faqs3">
+        <b>Are there long term effects of COVID 19?</b>
+        <br>\n\n Some people who have had COVID-19, whether they have needed hospitalization or not, continue to experience symptoms, including fatigue, respiratory and neurological symptoms. </br>
+        <br>\n\n WHO is working with our Global Technical Network for Clinical Management of COVID-19, researchers and patient groups around the world to design and carry out studies of patients beyond the initial acute course of illness to understand the proportion of patients who have long term effects, how long they persist, and why they occur.  These studies will be used to develop further guidance for patient care.  </br>
+    </string>
+
+
+
+    <string name="faqs5">
+        <b>When should I get to see if I have COVID-19?</b>
+        <br>\n\n Anyone with symptoms should be tested, wherever possible. People who do not have symptoms but have had close contact with someone who is, or may be, infected may also consider testing , contact your local health guidelines and follow their guidance.  </br>
+        <br>\n\n While a person is waiting for test results, they should remain isolated from others. Where testing capacity is limited, tests should first be done for those at higher risk of infection, such as health workers, and those at higher risk of severe illness such as older people, especially those living in seniors’ residences or long-term care facilities.</br>
+    </string>
+
+    <string name="faqs6">
+        <b>What about rapid test?</b>
+        <br>\n\n Rapid antigen tests (sometimes known as a rapid diagnostic test – RDT) detect viral proteins (known as antigens). Samples are collected from the nose and/or throat with a swab. These tests are cheaper than PCR and will offer results more quickly, although they are generally less accurate. These tests perform best when there is more virus circulating in the community and when sampled from an individual during the time they are most infectious. </br>
+    </string>
+
+    <string name="faqs7">
+        <b>What is difference between isolation and quarantine?</b>
+        <br>\n\n Both isolation and quarantine are methods of preventing the spread of COVID-19.</br>
+        <br>\n\n <b>Quarantine</b> is used for anyone who is a contact of someone infected with the SARSCoV2 virus, which causes COVID19, whether the infected person has symptoms or not. Quarantine means that you remain separated from others because you have been exposed to the virus and you may be infected and can take place in a designated facility or at home. For COVID-19, this means staying in the facility or at home for 14 days.</br>
+        <br>\n\n <b>Isolation</b> is used for people with COVID-19 symptoms or who have tested positive for the virus. Being in isolation means being separated from other people, ideally in a medically facility where you can receive clinical care.  If isolation in a medical facility is not possible and you are not in a high risk group of developing severe disease, isolation can take place at home. If you have symptoms, you should remain in isolation for at least 10 days plus an additional 3 days without symptoms. If you are infected and do not develop symptoms, you should remain in isolation for 10 days from the time you test positive. </br>
+    </string>
+
+    <string name="source">
+        <a href="https://www.who.int/news-room/q-a-detail/coronavirus-disease-covid-19">WHO Frequently Asked Questions</a>
+        \n\n<a href="https://www.who.int/health-topics/coronavirus#tab=tab_1">WHO Covid19, Symptoms, and Preventions</a>
+    </string>
+
+    <string name="jem">
+        <b>PROJECT MANAGER</b>
+        <br>\n\n <b>Name:</b>   BENITEZ, JEMIMA KESIA V.</br>
+        <br>\n\n <b>Address:</b>   #79A Brgy. Tebag, San Carlos City, Pangasinan</br>
+        <br>\n\n <b>Contact no.:</b>   09271457403</br>
+        <br>\n\n <b>Email Address:</b>   jevi.benitez.up@phinmaed.com</br>
+
+        <br>\n\n\n</br><b>PERSONAL INFORMATION:</b>
+        <br>\n\n <b>Birthdate:</b>   October 31, 2001</br>
+        <br>\n\n <b>Age:</b>   20 years old</br>
+        <br>\n\n <b>Civil Status:</b>   Single</br>
+        <br>\n\n <b>Gender:</b>   Female</br>
+         <br>\n\n <b>Religious Affiliation:</b>   Born Again Christian</br>
+
+        <b>\n\n\nEDUCATIONAL ATTAINMENT:</b>
+        <br>\n\n <b>Tertiary:</b>   PHINMA UNIVERSITY OF PANGASINAN (2019-present)</br>
+        <br>\n\n <b>Secondary:</b>   VIRGEN MILAFROSA UNIVERSITY FOUNDATION (2013-2019)</br>
+        <br>\n\n <b>Elementary:</b>   TEBAG ELEMENTARY SCHOOL (2006-2013)</br>
+    </string>
+
+    <string name="luch">
+        <br>\n <b>Name:</b>   PALAGANAS, LUCHELLE JOY R.</br>
+        <br>\n\n <b>Address:</b>   #22 Barangay Calbueg Malasiqui, Pangasinan</br>
+        <br>\n\n <b>Contact no.:</b>   09096380438</br>
+        <br>\n\n <b>Email Address:</b>   lude.palaganas.up@phinmaed.com</br>
+
+        <br>\n\n\n</br><b>PERSONAL INFORMATION:</b>
+        <br>\n\n <b>Birthdate:</b>   March 6, 2001</br>
+        <br>\n\n <b>Age:</b>   20 years old</br>
+        <br>\n\n <b>Civil Status:</b>   Single</br>
+        <br>\n\n <b>Gender:</b>   Female</br>
+         <br>\n\n <b>Religious Affiliation:</b>   Roman Catholic</br>
+
+        <b>\n\n\nEDUCATIONAL ATTAINMENT:</b>
+        <br>\n\n <b>Tertiary:</b>   PHINMA UNIVERSITY OF PANGASINAN (2019-present)</br>
+        <br>\n\n <b>Secondary:</b>   PHINMA UNIVERSITY OF PANGASINAN (2013-2019)</br>
+        <br>\n\n <b>Elementary:</b>   CALBUEG ELEMENTARY SCHOOL (2006-2013)</br>
+    </string>
+
+    <string name="alban">
+        <br>\n <b>Name:</b>   ALBAN, JAMAICA T.</br>
+        <br>\n\n <b>Address:</b>   20 Pugaro Boquig, Dagupan City, Pangasinan</br>
+        <br>\n\n <b>Contact no.:</b>   09484711521</br>
+        <br>\n\n <b>Email Address:</b>   albanjamaica@gmail.com</br>
+
+        <br>\n\n\n</br><b>PERSONAL INFORMATION:</b>
+        <br>\n\n <b>Birthdate:</b>   September 04, 2000</br>
+        <br>\n\n <b>Age:</b>   21 years old</br>
+        <br>\n\n <b>Civil Status:</b>   Single</br>
+        <br>\n\n <b>Gender:</b>   Female</br>
+         <br>\n\n <b>Religious Affiliation:</b>   Roman Catholic</br>
+
+        <b>\n\n\nEDUCATIONAL ATTAINMENT:</b>
+        <br>\n\n <b>Tertiary:</b>   PHINMA UNIVERSITY OF PANGASINAN (2019-present)</br>
+        <br>\n\n <b>Secondary:</b>   DAGUPAN CITY NATIONAL HIGH SCHOOL (2013-2019)</br>
+        <br>\n\n <b>Elementary:</b>   PUGARO INTEGRATED SCHOOL (2006-2013)</br>
+    </string>
+
+    <string name="ugaban">
+        <br>\n <b>Name:</b>   UGABAN, JESSA V.</br>
+        <br>\n\n <b>Address:</b>   218 Purok 3 Lucao District, Dagupan City Pangasinan</br>
+        <br>\n\n <b>Contact no.:</b>   09473171264</br>
+        <br>\n\n <b>Email Address:</b>   ugaban14@gmail.com</br>
+
+        <br>\n\n\n</br><b>PERSONAL INFORMATION:</b>
+        <br>\n\n <b>Birthdate:</b>   October 28, 1999</br>
+        <br>\n\n <b>Age:</b>   21 years old</br>
+        <br>\n\n <b>Civil Status:</b>   Single</br>
+        <br>\n\n <b>Gender:</b>   Female</br>
+         <br>\n\n <b>Religious Affiliation:</b>   Roman Catholic</br>
+
+        <b>\n\n\nEDUCATIONAL ATTAINMENT:</b>
+        <br>\n\n <b>Tertiary:</b>   PHINMA UNIVERSITY OF PANGASINAN (2019-present)</br>
+        <br>\n\n <b>Secondary:</b>   DAGUPAN CITY NATIONAL HIGH SCHOOL (2013-2019)</br>
+        <br>\n\n <b>Elementary:</b>   LUCAO ELEMENTARY SCHOOL (2006-2013)</br>
+    </string>
+</resources>
